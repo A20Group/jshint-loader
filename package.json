@@ -1,7 +1,7 @@
 {
-  "name": "jshint-loader",
-  "version": "0.9.0",
-  "description": "A JSHint loader for webpack Forked https://github.com/webpack-contrib/jshint-loader",
+  "name": "webpack-jshint-loader",
+  "version": "0.9.1",
+  "description": "A JSHint loader for webpack",
   "license": "MIT",
   "repository": "A20Group/jshint-loader",
   "author": "AmirHossein Abdollahzadeh",
